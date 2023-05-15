@@ -33,3 +33,6 @@ for number in numbers:
 numbers=[273,103,5,32,65,9,72,800,99]
 for i in numbers:
      print(i,'는', len(str(i)),'이다')
+       
+---------------------------------------------------
+4-1 retry
